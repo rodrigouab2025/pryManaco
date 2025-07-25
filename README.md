@@ -1,0 +1,2 @@
+# pryManaco
+fullstack folder
